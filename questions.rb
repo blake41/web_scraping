@@ -1,4 +1,6 @@
 # whats the problem I want to solve?
+# data/behavoir
+# why web scraping and not an API?
 # -craigslist is broken! let's disrupt it!
 # what are your first thoughts when looking at this file?
 # how do i know the url structure
